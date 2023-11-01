@@ -1,0 +1,2 @@
+# Leikjarforritun_jokull
+JökullSmáriGetsson
