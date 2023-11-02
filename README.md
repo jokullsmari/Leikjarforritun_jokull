@@ -21,3 +21,16 @@ SpawnManager:![SpawnManager](https://github.com/jokullsmari/Leikjarforritun_joku
 
 
 Spurningar:
+
+i. Scene view
+      Scene view er camera sem er notuð fyrir vinnu þegar unnið er á leiknum.
+ii. Game view
+      Game view er camera sem fer í gang þegar spilað er leikinn.
+iii. Project
+      Project þýðir verkefni. Prpject er allur leikur sem við búum til í heild
+iv. Hierarchy
+      Hierarchy er gluggin sem við geymum hluti, persónur og fleira sem fer inn í  leikinn
+v. Inspector
+      Inspertorinn er til þess að gefa eginleika við hlutiina okkar í leiknum t.d transform og rigedbody
+
+----------------------------------------------------------
