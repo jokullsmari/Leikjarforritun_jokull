@@ -33,4 +33,4 @@ iv. Hierarchy
 v. Inspector
       Inspertorinn er til þess að gefa eginleika við hlutiina okkar í leiknum t.d transform og rigedbody
 
-----------------------------------------------------------
+-----------------------------------------------------------
